@@ -6,9 +6,11 @@ import org.springframework.context.ApplicationContext;
 
 import com.in28minutes.spring.basics.springin5steps.scope.PersonDAO;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
+@ComponentScan
 
 public class SpringIn5StepsScopeApplication {
 	
