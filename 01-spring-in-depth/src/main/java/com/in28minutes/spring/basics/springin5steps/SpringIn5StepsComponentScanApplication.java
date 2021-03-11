@@ -17,16 +17,16 @@ public class SpringIn5StepsComponentScanApplication {
 			LoggerFactory.getLogger(SpringIn5StepsComponentScanApplication.class); 
 	
 	public static void main(String[] args) {
-		AnnotationConfigApplicationContext  applicationContext =
-				new AnnotationConfigApplicationContext(SpringIn5StepsComponentScanApplication.class);
+		try(AnnotationConfigApplicationContext  applicationContext =
+				new AnnotationConfigApplicationContext(SpringIn5StepsComponentScanApplication.class)) {
 
-		//ApplicationContext applicationContext =
-		//		SpringApplication.run(SpringIn5StepsComponentScanApplication.class, args);
-		
-		ComponentDAO componentDAO = 
-				applicationContext.getBean(ComponentDAO.class);
-		
-		LOGGER.info("{}", componentDAO);
-		
+			//ApplicationContext applicationContext =
+			//		SpringApplication.run(SpringIn5StepsComponentScanApplication.class, args);
+
+			ComponentDAO componentDAO =
+					applicationContext.getBean(ComponentDAO.class);
+
+			LOGGER.info("{}", componentDAO);
+		}
 	}
 }

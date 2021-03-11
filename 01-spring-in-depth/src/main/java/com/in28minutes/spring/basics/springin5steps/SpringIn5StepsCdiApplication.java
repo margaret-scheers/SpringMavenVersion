@@ -16,12 +16,15 @@ public class SpringIn5StepsCdiApplication {
 			LoggerFactory.getLogger(SpringIn5StepsCdiApplication.class); 
 	
 	public static void main(String[] args) {
-		AnnotationConfigApplicationContext annotationConfigApplicationContext =
-				new AnnotationConfigApplicationContext(SpringIn5StepsCdiApplication.class);
+		try (AnnotationConfigApplicationContext annotationConfigApplicationContext =
+				new AnnotationConfigApplicationContext(SpringIn5StepsCdiApplication.class)) {
+			;
 
-		SomeCdiBusiness business =
-				annotationConfigApplicationContext.getBean(SomeCdiBusiness.class);
-		
-		LOGGER.info("{} dao-{}", business, business.getSomeCDIDAO());
+			SomeCdiBusiness business =
+					annotationConfigApplicationContext.getBean(SomeCdiBusiness.class);
+
+			LOGGER.info("{} dao-{}", business, business.getSomeCDIDAO());
+			annotationConfigApplicationContext.close();
+		}
 	}
 }
