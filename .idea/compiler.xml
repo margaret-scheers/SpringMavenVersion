@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="in28minutes-spring-real-world-data-api" />
+        <module name="springboot-in-10-steps" />
+        <module name="in28Minutes-springmvc" />
+        <module name="in28minutes-spring-real-world-model" />
+        <module name="in28minutes-services-springmvc" />
+        <module name="spring-in-5-steps" />
+        <module name="in28minutes-spring-first-example" />
+        <module name="in28minutes-spring-jdbc-project" />
+        <module name="in28minutes-web-common" />
+        <module name="in28minutes-spring-basic-example" />
+        <module name="in28minutes-first-jdbc-project" />
+        <module name="maven-in-few-steps" />
+        <module name="in28minutes-web-springmvc" />
+        <module name="database-demo" />
+        <module name="in28minutes-spring-real-world-data-impl" />
+        <module name="in28minutes-core" />
+        <module name="mockito-demo" />
+        <module name="in28minutes-spring-real-world-business-impl" />
+        <module name="in28minutes-spring-first-example-refactored" />
+        <module name="spring-aop" />
+        <module name="spring-basic-example" />
+        <module name="in28minutes-spring-real-world-business-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="database-demo" target="1.8" />
+      <module name="in28minutes-core" target="1.7" />
+      <module name="in28minutes-first-jdbc-project" target="1.5" />
+      <module name="in28minutes-mvc" target="1.5" />
+      <module name="in28minutes-services-springmvc" target="1.7" />
+      <module name="in28minutes-spring-basic-example" target="1.8" />
+      <module name="in28minutes-spring-first-example" target="1.5" />
+      <module name="in28minutes-spring-first-example-refactored" target="1.5" />
+      <module name="in28minutes-spring-jdbc-project" target="1.5" />
+      <module name="in28minutes-spring-real-world-business" target="1.8" />
+      <module name="in28minutes-spring-real-world-business-api" target="1.8" />
+      <module name="in28minutes-spring-real-world-business-impl" target="1.8" />
+      <module name="in28minutes-spring-real-world-data" target="1.8" />
+      <module name="in28minutes-spring-real-world-data-api" target="1.8" />
+      <module name="in28minutes-spring-real-world-data-impl" target="1.8" />
+      <module name="in28minutes-spring-real-world-model" target="1.8" />
+      <module name="in28minutes-spring-real-world-parent" target="1.8" />
+      <module name="in28Minutes-springmvc" target="1.8" />
+      <module name="in28minutes-web-common" target="1.7" />
+      <module name="in28minutes-web-springmvc" target="1.7" />
+      <module name="maven-in-few-steps" target="1.8" />
+      <module name="mockito-demo" target="1.8" />
+      <module name="spring-aop" target="1.8" />
+      <module name="spring-basic-example" target="1.5" />
+      <module name="spring-in-5-steps" target="1.8" />
+      <module name="springboot-in-10-steps" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="database-demo" options="-parameters" />
+      <module name="maven-in-few-steps" options="-parameters" />
+      <module name="mockito-demo" options="-parameters" />
+      <module name="spring-aop" options="-parameters" />
+      <module name="spring-in-5-steps" options="-parameters" />
+      <module name="springboot-in-10-steps" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/00-framework-tool-introductions/02.Maven-Introduction-In-5-Steps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-framework-tool-introductions/04.Mockito-Introduction-In-5-Steps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/00-framework-tool-introductions/05.Spring-Boot-Introduction-In-10-Steps/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-in-depth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-jdbc-to-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-services-springmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-web-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-web-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-web-springmvc/src/main/java" charset="UTF-8" />
+  </component>
+</project>

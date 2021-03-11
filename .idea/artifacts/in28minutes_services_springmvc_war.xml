@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="in28minutes-services-springmvc:war">
+    <output-path>$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-services-springmvc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>in28minutes-services-springmvc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="in28minutes.war">
+      <element id="artifact" artifact-name="in28minutes-services-springmvc:war exploded" />
+    </root>
+  </artifact>
+</component>

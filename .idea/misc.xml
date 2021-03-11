@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/02-basic-web-application" />
+    <file type="web" url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-services-springmvc" />
+    <file type="web" url="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-web-springmvc" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/99-old-code/7.SpringMvc/pom.xml" />
+        <option value="$PROJECT_DIR$/99-old-code/4.SpringJDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/99-old-code/3.JDBCExample/pom.xml" />
+        <option value="$PROJECT_DIR$/99-old-code/0.FirstExample/pom.xml" />
+        <option value="$PROJECT_DIR$/99-old-code/1.BasicExample/pom.xml" />
+        <option value="$PROJECT_DIR$/99-old-code/2.RealWorldExample/pom.xml" />
+        <option value="$PROJECT_DIR$/99-old-code/5.FirstExample-Refactored/pom.xml" />
+        <option value="$PROJECT_DIR$/99-old-code/6.ExamplesToUnderstandMore/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/01-spring-in-depth/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-jdbc-to-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/02-basic-web-application/pom.xml" />
+        <option value="$PROJECT_DIR$/00-framework-tool-introductions/02.Maven-Introduction-In-5-Steps/pom.xml" />
+        <option value="$PROJECT_DIR$/00-framework-tool-introductions/04.Mockito-Introduction-In-5-Steps/pom.xml" />
+        <option value="$PROJECT_DIR$/00-framework-tool-introductions/05.Spring-Boot-Introduction-In-10-Steps/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
