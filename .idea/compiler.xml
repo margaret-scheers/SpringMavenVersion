@@ -19,13 +19,11 @@
         <module name="in28minutes-first-jdbc-project" />
         <module name="maven-in-few-steps" />
         <module name="in28minutes-web-springmvc" />
-        <module name="database-demo" />
         <module name="in28minutes-spring-real-world-data-impl" />
         <module name="in28minutes-core" />
         <module name="mockito-demo" />
         <module name="in28minutes-spring-real-world-business-impl" />
         <module name="in28minutes-spring-first-example-refactored" />
-        <module name="spring-aop" />
         <module name="spring-basic-example" />
         <module name="in28minutes-spring-real-world-business-api" />
       </profile>

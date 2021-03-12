@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/04-spring-jdbc-to-jpa/database-demo.iml" filepath="$PROJECT_DIR$/04-spring-jdbc-to-jpa/database-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-basic-web-application/in28Minutes-springmvc.iml" filepath="$PROJECT_DIR$/02-basic-web-application/in28Minutes-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-core/in28minutes-core.iml" filepath="$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-core/in28minutes-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/99-old-code/3.JDBCExample/in28minutes-first-jdbc-project.iml" filepath="$PROJECT_DIR$/99-old-code/3.JDBCExample/in28minutes-first-jdbc-project.iml" />
@@ -24,7 +23,6 @@
       <module fileurl="file://$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-web-springmvc/in28minutes-web-springmvc.iml" filepath="$PROJECT_DIR$/99-old-code/7.SpringMvc/in28minutes-web-springmvc/in28minutes-web-springmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/00-framework-tool-introductions/02.Maven-Introduction-In-5-Steps/maven-in-few-steps.iml" filepath="$PROJECT_DIR$/00-framework-tool-introductions/02.Maven-Introduction-In-5-Steps/maven-in-few-steps.iml" />
       <module fileurl="file://$PROJECT_DIR$/00-framework-tool-introductions/04.Mockito-Introduction-In-5-Steps/mockito-demo.iml" filepath="$PROJECT_DIR$/00-framework-tool-introductions/04.Mockito-Introduction-In-5-Steps/mockito-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-spring-aop/spring-aop.iml" filepath="$PROJECT_DIR$/03-spring-aop/spring-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/99-old-code/6.ExamplesToUnderstandMore/spring-basic-example.iml" filepath="$PROJECT_DIR$/99-old-code/6.ExamplesToUnderstandMore/spring-basic-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-spring-in-depth/spring-in-5-steps.iml" filepath="$PROJECT_DIR$/01-spring-in-depth/spring-in-5-steps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-master-class.iml" filepath="$PROJECT_DIR$/.idea/spring-master-class.iml" />
